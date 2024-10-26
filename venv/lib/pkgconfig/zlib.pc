@@ -1,0 +1,13 @@
+prefix=/home/user/megathon/venv
+exec_prefix=/home/user/megathon/venv
+libdir=/home/user/megathon/venv/lib
+sharedlibdir=/home/user/megathon/venv/lib
+includedir=/home/user/megathon/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
