@@ -14,15 +14,6 @@ The solution consists of five primary components:
 
 The bot is designed to provide insights into users' mental health journeys, which may help support mental health care or personal reflection.
 
-## Features
-
-- **Polarity Detection**: Determines if the user’s sentiment is positive, neutral, or negative, with the ability to track sentiment shifts over time.
-- **Named Entity Recognition (NER)**: Extracts mental health-related keywords from input.
-- **Concern Classification**: Classifies keywords into predefined categories such as Anxiety, Depression, Stress, Insomnia, and Eating Disorders.
-- **Intensity Scoring**: Rates the severity of each concern on a 1-10 scale.
-- **Timeline-Based Analysis**: Tracks sentiment progression over time to indicate if a user is improving or deteriorating.
-
-
 ## Goals
 
 The bot should:
