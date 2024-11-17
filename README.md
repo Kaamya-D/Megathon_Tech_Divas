@@ -55,7 +55,7 @@ Output:
 - Expand concern categories for a more detailed classification.
 
 ## Progress report-
-Worked on the intensity scorer functionality, building a bot 
+Worked on the intensity scorer functionality, building a bot with the memory stored in the system and creating the dataset for training the deep learning chatbot.
 
 ---
 
