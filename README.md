@@ -13,8 +13,8 @@ The solution consists of five primary components:
 5. **Timeline-Based Sentiment Shift Analysis**: Tracks and analyzes shifts in user sentiment over multiple inputs.
 
 The bot is designed to provide insights into users' mental health journeys, which may help support mental health care or personal reflection.
-**Kindly view all branches for other parts of the code.
-**## Goals
+**Kindly view all branches for other parts of the code.**
+## Goals
 
 The bot should:
 1. Detect the polarity of user input.
